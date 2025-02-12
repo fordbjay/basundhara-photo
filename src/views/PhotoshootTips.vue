@@ -3,7 +3,8 @@
 <div class="container">
 
   <h1>Behind the Scenes of a Branding Photoshoot</h1>
-  <div style="text-align: center; padding: 0 20px 10px 20px;">
+  <div style="text-align: center; padding: 0 20px 10px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+">
     <p>What Comes to Mind When You Think of a Photoshoot?</p>
     <br>
     A Vanity van, big set, lights and camera, a makeup team, stylists, and a photographer directing your every move—transforming you into a Vogue model?
