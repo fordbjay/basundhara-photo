@@ -19,8 +19,8 @@
     <br>
     Let me take you behind the scenes of a real branding photoshoot and show you just how much effort goes into making you look effortlessly natural.
 </div>
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaV_ptxjKuxpYlIUvm-rVENAgKsW37KwLrz7-fY4fu5xrrzCv9ndJJpTp8Gq6Pqw//embed?start=true&loop=true&delayms=3000" frameborder="0" width="800" height="490" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaV_ptxjKuxpYlIUvm-rVENAgKsW37KwLrz7-fY4fu5xrrzCv9ndJJpTp8Gq6Pqw/embed?start=true&loop=true&delayms=10000" frameborder="0" width="363" height="490" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  
   <!-- <h1>How to Prepare for Your Headshots test</h1>
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlt50HsvxefP0JtK5Lftxqo1Zx9HPiA1bQijkGay8izRbQaX4lN2RI6nbb81g833Oqur0RQLjhX6Qo/embed?start=true&loop=true&delayms=3000" frameborder="0" width="800" height="490" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> -->
 
