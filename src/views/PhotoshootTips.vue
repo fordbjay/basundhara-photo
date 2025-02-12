@@ -2,8 +2,28 @@
 
 <div class="container">
 
-  <h1>How to Prepare for Your Headshots test</h1>
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlt50HsvxefP0JtK5Lftxqo1Zx9HPiA1bQijkGay8izRbQaX4lN2RI6nbb81g833Oqur0RQLjhX6Qo/embed?start=true&loop=true&delayms=3000" frameborder="0" width="800" height="490" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <h1>Behind the Scenes of a Branding Photoshoot</h1>
+  <div style="text-align: center; padding: 0 20px 10px 20px;">
+    <p>What Comes to Mind When You Think of a Photoshoot?</p>
+    <br>
+    A Vanity van, big set, lights and camera, a makeup team, stylists, and a photographer directing your every move—transforming you into a Vogue model?
+    <br>
+    <br>
+    Or
+    <br>
+    <br>
+    A tiny photo studio with a plain backdrop, a quick snap, and a heavily retouched image that barely looks like you?
+    <br>
+    <br>
+    But here’s the thing—real headshots and personal branding photos aren’t about transformation. They’re about capturing the best version of you—the way your clients, colleagues, and friends already see you.
+    <br>
+    <br>
+    Let me take you behind the scenes of a real branding photoshoot and show you just how much effort goes into making you look effortlessly natural.
+</div>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaV_ptxjKuxpYlIUvm-rVENAgKsW37KwLrz7-fY4fu5xrrzCv9ndJJpTp8Gq6Pqw//embed?start=true&loop=true&delayms=3000" frameborder="0" width="800" height="490" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+  <!-- <h1>How to Prepare for Your Headshots test</h1>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlt50HsvxefP0JtK5Lftxqo1Zx9HPiA1bQijkGay8izRbQaX4lN2RI6nbb81g833Oqur0RQLjhX6Qo/embed?start=true&loop=true&delayms=3000" frameborder="0" width="800" height="490" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> -->
 
   <span></span>
   
