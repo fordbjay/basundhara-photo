@@ -3,6 +3,8 @@
   <div class="container">
 
     <div class="bio-img">
+      <img class="basu-pic" src="../assets/prof-pic-feb-2025.jpg" alt="basundhara">
+
       <div class="text">
         <h1 class="about-me-title">Hello!</h1>
         <p class="about-para">I'm Basundhara, a photographer and traveller. 
@@ -16,7 +18,6 @@
         <br>
         <strong>Let's connect!</strong></p>
       </div>
-      <img class="basu-pic" src="../assets/prof-pic-aug-2023.jpg" alt="basundhara">
     </div>
 
     <div class="client-banner">
